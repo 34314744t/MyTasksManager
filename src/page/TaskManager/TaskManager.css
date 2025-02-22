@@ -1,0 +1,19 @@
+#divmain
+           {
+            background-color: rgb(223, 230, 247);
+            border-bottom-left-radius: 30px 20px;
+            border-bottom-right-radius: 30px 20px;
+
+            border-style: solid outset  outset  outset;
+            border-color: rgb(56, 54, 63);
+
+            padding-top: 20px;
+            padding-right: 20px;
+            padding-bottom: 90px;
+            padding-left: 20px;
+           }
+   #divholder
+   {
+    border-style: none none double none;
+    border-color: rgb(56, 54, 63);
+   }        

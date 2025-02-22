@@ -1,0 +1,17 @@
+#wordSearchLabel {
+    color: black;
+    text-align: center;
+    font-size: 14px;
+  }
+
+ #wordSearch {
+    color: gray;
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  #wordSearch:hover{
+    font-size: 17px;
+  }
