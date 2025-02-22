@@ -1,1 +1,2 @@
-My proyect React in gitHub
+My proyect React in gitHub.
+Primera modificacion desde git local.
