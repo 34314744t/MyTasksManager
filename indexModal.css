@@ -1,0 +1,10 @@
+.public-modal {
+    background-color: #dd7171;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /*alia horizontalmente*/
+    justify-content: center; /*alia verticamente*/
+    
+  }
+  
