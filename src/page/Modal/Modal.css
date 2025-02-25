@@ -1,0 +1,28 @@
+.modalStyle
+           {
+            background-color: rgb(255, 255, 255);
+            border-top-left-radius: 5px 5px;
+            border-top-right-radius: 5px 5px;
+            border-bottom-left-radius: 5px 5px;
+            border-bottom-right-radius: 5px 5px;
+
+            border-style: solid outset  outset  outset;
+            border-color: rgb(22, 133, 177);
+         
+            padding-top: 5px;
+            padding-right: 5px;
+            padding-bottom: 5px;
+            padding-left: 5px;
+
+            font-size: 12px;
+
+            margin-top: 5px;
+            margin-bottom: 5px;
+            margin-right: 5px;
+            margin-left: 5px;
+
+            border-width: thin;
+           
+           }
+
+  

@@ -1,0 +1,53 @@
+.skeletonTasks
+           {
+            background-color: rgb(255, 249, 249);
+          }
+.skeletonTask
+           {
+            background-color: rgb(250, 231, 231);
+            border-top-left-radius: 5px 5px;
+            border-top-right-radius: 5px 5px;
+            border-bottom-left-radius: 5px 5px;
+            border-bottom-right-radius: 5px 5px;
+
+            border-style: none none none none;
+            border-color: rgb(240, 246, 248);
+         
+            padding-top: 1px;
+            padding-right: 1px;
+            padding-bottom: 1px;
+            padding-left: 1px;
+
+            font-size: 12px;
+
+            margin-top: 5px;
+            margin-bottom: 5px;
+            margin-right: 5px;
+            margin-left: 5px;
+            font-size: 25px;
+           
+           
+           }
+
+           skeletonIcon {
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 48px;
+            width: 48px;
+            font-size: 24px;
+            font-weight: bold;
+            /* background-color: #CCC; */
+          }
+          
+         
+
+         
+
+          .Skeleton-Icon-delete {
+           
+            color: rgb(141, 139, 139);
+            text-align: right;
+            font-size: 17px;
+        }

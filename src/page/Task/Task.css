@@ -51,7 +51,8 @@
           }
 
           .Icon-check--inactive {
-            color: #a52606;
+          
+            color: rgb(165, 140, 140);
             font-size: 17px;
           }
           .Icon-check--inactive:hover {
@@ -61,7 +62,7 @@
 
           .Icon-delete {
            
-            color: rgb(165, 140, 140);
+            color: #a52606;
             text-align: right;
             font-size: 17px;
         }
